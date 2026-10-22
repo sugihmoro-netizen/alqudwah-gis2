@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Siswa PWA",
+  "description": "Aplikasi Sistem Absensi Siswa berbasis PWA dengan dukungan offline-first, sinkronisasi otomatis, manajemen peran multi-user, dan pelaporan absensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
